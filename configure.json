@@ -1,0 +1,15 @@
+{
+    "urls":{
+        "login_page": "https://webportal.hit.edu.cn/srun_portal_pc?ac_id=24&srun_wait=1&theme=hit",
+        "get_challenge_api": "http://webportal.hit.edu.cn/cgi-bin/get_challenge",
+        "login_api": "http://webportal.hit.edu.cn/cgi-bin/srun_portal"
+    },
+    "account": {
+        "username": "your_username",
+        "password": "your_password",
+        "n" : "200",
+        "vtype": "1",
+        "acid": "24",
+        "enc": "srun_bx1"
+    }
+}
